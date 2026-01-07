@@ -1,7 +1,7 @@
-
-<img width="1315" height="737" alt="Task2" src="https://github.com/user-attachments/assets/be6e5df7-43c3-480e-b6ec-a9ea543af511" />
 # Future_DS_02
 # Social Media Campaign Performance Tracker
+
+<img width="1315" height="737" alt="Task2" src="https://github.com/user-attachments/assets/be6e5df7-43c3-480e-b6ec-a9ea543af511" />
 
 ## Project Overview
 - This project analyzes marketing campaign performance across multiple advertising channels using Power BI
