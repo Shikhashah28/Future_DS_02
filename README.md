@@ -1,5 +1,5 @@
 # Future_DS_02
-# Marketing Channel Performance & ROI Analysis Dashboard
+# Social Media Campaign Performance Tracker
 
 ## Project Overview
 - This project analyzes marketing campaign performance across multiple advertising channels using Power BI
